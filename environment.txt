@@ -1,0 +1,7 @@
+! pip install json
+! pip install requests
+! pip install pandas
+! pip install operator
+! pip install scikit-learn
+! pip install numpy
+! pip install scipy
